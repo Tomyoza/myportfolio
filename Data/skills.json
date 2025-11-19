@@ -1,0 +1,38 @@
+[
+    {
+        "name": "java",
+        "icon": "/java_icon.png"
+    },
+    {
+        "name": "React JS",
+        "icon": "/react_icon.png"
+    },
+    {
+        "name": "C++",
+        "icon": "/c++.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "/html_icon.png"
+    },
+    {
+        "name": "Javascript",
+        "icon": "/js_icon.png"
+    },
+    {
+        "name": "Python",
+        "icon": "/python.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "/aws_icon.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "/docker.png"
+    },
+    {
+        "name": "REST API",
+        "icon": "/Rest_API.png"
+    }
+] 

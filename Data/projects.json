@@ -1,0 +1,20 @@
+[
+  {
+    "thumbnail": "/weather_thumbnail.png",
+    "title": "Slides Mobile Game",
+    "link": {
+      "label": "Gomoku Narabe",
+      "url": "https://github.com/CS-300-BYUH/slide-app-Tomyoza"},
+    "description": "This is a description of project 1",
+    "languageIcons": ["/java_icon.png"]
+  },
+  {
+    "thumbnail": "/Ecommerce_Thumbnail.png",
+    "title": "My Portfolio",
+    "link": {
+      "label": "Tomoki Yoza's Portfolio",
+      "url": "https://project2.com"},
+    "description": "This is a description of project 2",
+    "languageIcons": ["/react_icon.png", "/js_icon.png"]
+  }
+] 
