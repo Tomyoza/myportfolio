@@ -7,23 +7,23 @@ const Hero = () => {
     <div className='flex flex-col gap-[13px] items-center md:gap-[34px] md:my-[58px]
     md:items-start'>
         <h1 className='text-2xl/1 text-center font-semibold block md:text-[40px] md:text-start md:inline'>
-        <span className='-ml-3'>👋</span> Hello I'm Tomoki Yoza, I'm a {' '}
+        <span className='-ml-3'>👋</span> Hello I&apos;m Tomoki Yoza, I&apos;m a {' '}
         <span className='block text-[27px] highlight mt-2 md:text-[45px] md:inline md:mt-0'>Software Engineer
         </span>
         </h1>
         <p className='text-center text-sm mx-6 md:text-[22px] md:text-start md:mx-0'>
-          I'm driven by curiosity and constantly improving my engineering skills.
+          I&apos;m driven by curiosity and constantly improving my engineering skills.
         </p>
         <div className='flex flex-col gap-3 md:gap-4'>
             <a href='mailto:tomoki.yoza@gmail.com' className='self-center bg-primary text-white
             p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl/6'>
-                Let's Connect{' '} <img src='/Arrow Right Icon.svg'
-            alt='Arrow right icon'/>
+                Let&apos;s Connect{' '} <Image src='/Arrow Right Icon.svg'
+            alt='Arrow right icon' width={16} height={16}/>
             </a>
             <a href='/TOMOKI YOZA - RESUME_25.pdf' download className='self-center bg-primary text-white
             p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl/6'>
-                Check My Resume{' '} <img src='/Arrow Right Icon.svg'
-            alt='Arrow right icon'/>
+                Check My Resume{' '} <Image src='/Arrow Right Icon.svg'
+            alt='Arrow right icon' width={16} height={16}/>
             </a>
         </div>
     </div>

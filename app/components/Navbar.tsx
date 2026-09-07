@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useCallback, useEffect, useState } from 'react';
+import Image from 'next/image';
 import cn from 'classnames';
 
 
@@ -26,13 +27,15 @@ const Navbar = () => {
             <button className="bg-background card-shadow p-3 md:hidden rounded"
             onClick={() => setIsOpen((prevVal) => !prevVal)}
             >
-                <img className="block dark:hidden" 
-                src="/menu_icon_light.svg" 
-                alt="menu icon" 
-                />
-                <img className="hidden dark:block"
-                src="/menu-icon-dark.svg" 
+                <Image className="block dark:hidden"
+                src="/menu_icon_light.svg"
                 alt="menu icon"
+                width={18} height={18}
+                />
+                <Image className="hidden dark:block"
+                src="/menu-icon-dark.svg"
+                alt="menu icon"
+                width={18} height={18}
                 />
             </button>
             <nav className={cn('bg-background card-shadow p-3 rounded md:block duration-300 ease-in-out', 
