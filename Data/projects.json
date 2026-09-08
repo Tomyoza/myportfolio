@@ -1,20 +1,11 @@
 [
   {
-    "thumbnail": "/weather_thumbnail.png",
-    "title": "Slides Mobile Game",
-    "link": {
-      "label": "Gomoku Narabe",
-      "url": "https://github.com/CS-300-BYUH/slide-app-Tomyoza"},
-    "description": "This is a description of project 1",
-    "languageIcons": ["/java_icon.png"]
-  },
-  {
-    "thumbnail": "/Ecommerce_Thumbnail.png",
+    "thumbnail": "/myportfolio.jpeg",
     "title": "My Portfolio",
     "link": {
-      "label": "Tomoki Yoza's Portfolio",
-      "url": "https://project2.com"},
-    "description": "This is a description of project 2",
-    "languageIcons": ["/react_icon.png", "/js_icon.png"]
+      "label": "Live Site",
+      "url": "https://tomyoza-portfolio.vercel.app/"},
+    "description": "My personal portfolio site, built with Next.js and Tailwind CSS to showcase my projects and skills.",
+    "languageIcons": ["/TS Icon.png"]
   }
-] 
+]
