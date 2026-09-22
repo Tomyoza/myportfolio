@@ -7,5 +7,14 @@
       "url": "https://github.com/Tomyoza/myportfolio"},
     "description": "My personal portfolio site, built with Next.js and Tailwind CSS to showcase my projects and skills.",
     "languageIcons": ["/TS Icon.png"]
+  },
+  {
+    "thumbnail": "/pegatron_thumbnail.svg",
+    "title": "LLM Evaluation Platform",
+    "link": {
+      "label": "Watch Demo",
+      "url": "https://youtu.be/2snMewWlDks?is=DFKqJYG1M6V5zZTx"},
+    "description": "Engineered an internal LLM performance evaluation and enhancement system from scratch during my internship at Pegatron, streamlining testing workflows and accelerating model iteration.",
+    "languageIcons": ["/python.png", "/react_icon.png", "/Rest_API.png", "/docker.png"]
   }
 ]
